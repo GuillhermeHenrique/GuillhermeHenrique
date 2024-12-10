@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hello, I am Guilherme!
+![logo](Linkedin/Linkedin.png)
 
 <!--
 **GuillhermeHenrique/GuillhermeHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
