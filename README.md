@@ -1,8 +1,4 @@
-![Seu Nome Aqui](URL_DA_SUA_IMAGEM)
-
-# Olá! 👋
-
-Como criador de conteúdo tech e desenvolvedor freelancer, combino paixão, criatividade e expertise técnica para entregar projetos únicos. De sites a templates, sou especialista em oferecer resultados de alta qualidade. Vamos criar juntos!
+# Olá! Meu nome é Guilherme 👋
 
 ---
 
@@ -38,4 +34,4 @@ Como criador de conteúdo tech e desenvolvedor freelancer, combino paixão, cria
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU_PERFIL)
 [![Link na Bio](https://img.shields.io/badge/Meu%20Link-na%20Bio-green?style=for-the-badge)](https://linknabio.com/SEU_PERFIL)
 
-🌐 **Meu site:** [SEU_SITE](https://SEU_SITE.com)
+🌐 **Meu site:** Em desenvolvimento...
