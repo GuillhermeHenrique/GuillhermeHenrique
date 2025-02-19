@@ -32,6 +32,5 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU_PERFIL)
-[![Link na Bio](https://img.shields.io/badge/Meu%20Link-na%20Bio-green?style=for-the-badge)](https://linknabio.com/SEU_PERFIL)
 
 🌐 **Meu site:** Em desenvolvimento...
