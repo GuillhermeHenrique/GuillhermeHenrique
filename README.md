@@ -1,6 +1,5 @@
 ![](./Download/imggithub.png)
-❤️ Amo criar soluções inovadoras em tecnologia.
-Como criador de conteúdo tech e desenvolvedor freelancer, combino paixão, criatividade e expertise técnica para entregar projetos únicos. De sites a templates, sou especialista em oferecer resultados de alta qualidade. Vamos criar juntos!
+❤️ Amo criar soluções inovadoras em tecnologia. Como criador de conteúdo tech e desenvolvedor freelancer, combino paixão, criatividade e expertise técnica para entregar projetos únicos. De sites a templates, sou especialista em oferecer resultados de alta qualidade. Vamos criar juntos!
 ---
 
 ## 🚀 Habilidades
