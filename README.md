@@ -1,4 +1,4 @@
-![❤️ Amo criar soluções inovadoras em tecnologia.](https://github.com/user-attachments/assets/b94472a7-1699-47a3-bc3e-622cbfe2b593)
+![❤️ Amo criar soluções inovadoras em tecnologia.](https://github.com/user-attachments/assets/97d88083-262b-431a-8bd5-8b151ed6c4bd)
 
 ---
 
