@@ -1,4 +1,4 @@
-<img src="Downloads/github.png" width="300">
+![❤️ Amo criar soluções inovadoras em tecnologia.](URL_da_Imagem)
 
 ---
 
