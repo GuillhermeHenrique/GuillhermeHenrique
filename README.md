@@ -1,4 +1,4 @@
-![❤️ Amo criar soluções inovadoras em tecnologia.](URL_da_Imagem)
+![❤️ Amo criar soluções inovadoras em tecnologia.](https://www.canva.com/design/DAGW3C8i7dk/b3T2gqOf2vtw6YHRgym6Sg/viewutm_content=DAGW3C8i7dk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc9ce48c092)
 
 ---
 
