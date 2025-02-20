@@ -1,4 +1,4 @@
-![❤️ Amo criar soluções inovadoras em tecnologia.](./Usuários/Guilherne/Downloads/imggithub.png)
+<img src="Downloads/github.png" width="300">
 
 ---
 
