@@ -1,4 +1,4 @@
-![❤️ Amo criar soluções inovadoras em tecnologia.](./C:\Usuários\Guilherne\Downloads)
+![❤️ Amo criar soluções inovadoras em tecnologia.](./C:/Usuários/Guilherne/Downloads/imggithub.png)
 
 ---
 
