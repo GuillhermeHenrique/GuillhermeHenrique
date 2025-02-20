@@ -1,5 +1,6 @@
-!(./Download/imggithub.png)
-❤️ Amo criar soluções inovadoras em tecnologia. 
+![❤️ Amo criar soluções inovadoras em tecnologia.](./Download/imggithub.png)
+
+
 ---
 
 ## 🚀 Habilidades
