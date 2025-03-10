@@ -27,7 +27,7 @@
 ---
 
 ## 📊 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillhermeHenrique&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillhermeHenrique&layout=compact&theme=radical)
 
 ---
 
