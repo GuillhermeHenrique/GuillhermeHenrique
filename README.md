@@ -1,6 +1,11 @@
 # Perfil do GitHub de Guilherme Henrique
 ![](https://github.com/user-attachments/assets/4b9b6e50-2c74-4dad-a53c-d5a95f2bbc18)
-<p align="center">❤️ Amo criar soluções inovadoras em tecnologia.</p>
+<p align="center">❤️ Sou apaixonado por desenvolver soluções tecnológicas inovadoras.</p>
+
+---
+
+## 👾 Sobre mim
+<p align="center">Minha paixão pela área me levou a ingressar cedo no ensino superior, onde atualmente curso Desenvolvimento de Software Multiplataforma na FATEC, além de estar matriculado no curso técnico de Desenvolvimento de Sistemas na ETEC. Ao longo da minha trajetória, obtive diversos certificados em tecnologia, incluindo formações oferecidas por plataformas renomadas como Alura e Udemy.</p>
 
 ---
 
