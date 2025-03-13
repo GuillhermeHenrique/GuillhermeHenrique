@@ -1,6 +1,5 @@
 # Perfil do GitHub de Guilherme Henrique
 ![](https://github.com/user-attachments/assets/4b9b6e50-2c74-4dad-a53c-d5a95f2bbc18)
-<p align="center">❤️ Sou apaixonado por desenvolver soluções tecnológicas inovadoras.</p>
 
 ---
 
@@ -33,6 +32,7 @@
 ---
 
 ## 📊 Estatísticas
+![](https://github-readme-streak-stats.herokuapp.com?user=RicardoMouraa&theme=dracula&mode=weekly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillhermeHenrique&layout=compact&theme=radical)
 
 ---
