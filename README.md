@@ -5,7 +5,7 @@
 ---
 
 ## 👾 Sobre mim
-<p align="center">Minha paixão pela área me levou a ingressar cedo no ensino superior, onde atualmente curso Desenvolvimento de Software Multiplataforma na FATEC, além de estar matriculado no curso técnico de Desenvolvimento de Sistemas na ETEC. Ao longo da minha trajetória, obtive diversos certificados em tecnologia, incluindo formações oferecidas por plataformas renomadas como Alura e Udemy.</p>
+<p>Minha paixão pela área me levou a ingressar cedo no ensino superior, onde atualmente curso Desenvolvimento de Software Multiplataforma na FATEC, além de estar matriculado no curso técnico de Desenvolvimento de Sistemas na ETEC. Ao longo da minha trajetória, obtive diversos certificados em tecnologia, incluindo formações oferecidas por plataformas renomadas como Alura e Udemy.</p>
 
 ---
 
