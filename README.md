@@ -1,6 +1,6 @@
 # Perfil do GitHub de Guilherme Henrique
 ![](https://github.com/user-attachments/assets/4b9b6e50-2c74-4dad-a53c-d5a95f2bbc18)
-❤️ Amo criar soluções inovadoras em tecnologia.
+<p align="center">❤️ Amo criar soluções inovadoras em tecnologia.</p>
 
 ---
 
