@@ -42,6 +42,6 @@
 
 ## 🌍 Conecte-se comigo
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piresguilherme003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/SEU_PERFIL](https://www.linkedin.com/in/guilhermehenriique/))
+[![Gmail](mailto:piresguilherme003@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/guilhermehenriique/)
 
