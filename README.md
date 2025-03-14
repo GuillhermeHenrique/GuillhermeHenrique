@@ -42,6 +42,6 @@
 
 ## 🌍 Conecte-se comigo
 
-[![Gmail](mailto:piresguilherme003@gmail.com)
-[![LinkedIn](https://www.linkedin.com/in/guilhermehenriique/)
+[![Gmail](mailto:piresguilherme003@gmail.com)]
+[![LinkedIn](https://www.linkedin.com/in/guilhermehenriique/)]
 
