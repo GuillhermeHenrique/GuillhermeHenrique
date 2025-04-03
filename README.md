@@ -33,9 +33,9 @@
 
 ## 📊 Estatísticas
 
-<div align="left">
-  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillhermeHenrique&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
-  <img width=50% src="https://github-readme-streak-stats.herokuapp.com?user=GuillhermeHenrique&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHenrique&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeHenrique&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
 </div>
 
 ---
