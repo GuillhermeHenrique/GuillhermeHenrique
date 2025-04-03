@@ -33,7 +33,7 @@
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuillhermeHenrique&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuillhermeHenrique&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillhermeHenrique&layout=compact&theme=radical)
 
 ---
