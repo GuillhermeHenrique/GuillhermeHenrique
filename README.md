@@ -33,9 +33,7 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHenrique&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeHenrique&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuillhermeHenrique&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillhermeHenrique&layout=compact&theme=radical)
 
 ---
