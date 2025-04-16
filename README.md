@@ -3,7 +3,7 @@
 ---
 
 ## 👾 Sobre mim
-<p>Atualmente, curso Desenvolvimento de Software Multiplataforma na Fatec e, simultaneamente, estou matriculado no curso técnico de Desenvolvimento de Sistemas na ETECAP. Ao longo da minha trajetória adquiri diversos certificados na área, incluindo formações oferecidas por plataformas reconhecidas, como Alura e Udemy.</p>
+<p>Atualmente, curso Desenvolvimento de Software Multiplataforma na FATEC e, simultaneamente, estou matriculado no curso técnico de Desenvolvimento de Sistemas na ETECAP. Ao longo da minha trajetória adquiri diversos certificados na área, incluindo formações oferecidas por plataformas reconhecidas, como Alura e Udemy.</p>
 
 ---
 
