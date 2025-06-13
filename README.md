@@ -1,5 +1,5 @@
-![](https://github.com/user-attachments/assets/4a20e1c8-5164-4188-9ba7-ab1339f39c3a)
----
+<code>console.log("Welcome to my GitHub!😆")</code>
+<hr>
 
 ## 👨‍💻 Sobre mim
 <p>Programador apaixonado em desenvolver, o que me levou a ingressar cedo no ensino superior, onde atualmente curso Desenvolvimento de Software Multiplataforma na FATEC, além de estar matriculado no curso técnico de Desenvolvimento de Sistemas na ETECAP. Destaco-me pela notável capacidade de diagnosticar requerimentos, propor soluções inovadoras e entregar projetos alinhados aos objetivos de negócio. Ao longo da minha trajetória, obtive diversos certificados, incluindo formações oferecidas por plataformas renomadas como Alura e Udemy.</p>
