@@ -2,7 +2,7 @@
 <hr>
 
 ## 👨‍💻 Sobre mim
-<p>Programador apaixonado em desenvolver, o que me levou a ingressar cedo no ensino superior, onde atualmente curso Desenvolvimento de Software Multiplataforma na FATEC, além de estar matriculado no curso técnico de Desenvolvimento de Sistemas na ETECAP. Destaco-me pela notável capacidade de diagnosticar requerimentos, propor soluções inovadoras e entregar projetos alinhados aos objetivos de negócio. Ao longo da minha trajetória, obtive diversos certificados, incluindo formações oferecidas por plataformas renomadas como Alura e Udemy.</p>
+<p>Com uma sólida base acadêmica e paixão por tecnologia, sou um desenvolvedor de software com formação técnica em Análise e Desenvolvimento de Sistemas pela ETECAP, além de ser discente na Faculdade de Tecnologia de Indaiatuba (FATEC), onde estudo Desenvolvimento de Software Multiplataforma. Destaco-me pela notável capacidade de identificar demandas, propor soluções inovadoras e entregar projetos alinhados aos objetivos de negócio. Ao longo da minha trajetória, conquistei diversos certificados, incluindo formações oferecidas por plataformas renomadas como Alura e Udemy.</p>
 
 ---
 
