@@ -1,18 +1,18 @@
 <code>console.log("Welcome to my GitHub!😆")</code>
 <hr>
 
-## 👨‍💻 Sobre mim
-<p>Com uma sólida base acadêmica e paixão por tecnologia, sou um desenvolvedor de software com formação técnica em Análise e Desenvolvimento de Sistemas pela ETECAP, além de ser discente na Faculdade de Tecnologia de Indaiatuba (FATEC), onde estudo Desenvolvimento de Software Multiplataforma. Destaco-me pela notável capacidade de identificar demandas, propor soluções inovadoras e entregar projetos alinhados aos objetivos de negócio. Ao longo da minha trajetória, conquistei diversos certificados, incluindo formações oferecidas por plataformas renomadas como Alura e Udemy.</p>
+## 👨‍💻 About Me
+<p>With a strong academic background and a passion for technology, I am a software developer holding a technical degree in Systems Analysis and Development from ETECAP. I'm also currently pursuing a degree in Multiplatform Software Development at the Faculty of Technology of Indaiatuba (FATEC). Throughout my career, I've earned numerous certifications, including training from renowned platforms like Alura and Udemy.</p>
 
 ---
 
-## 🛠 Ferramentas
+## 🛠 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,nodejs,express,html,css,tailwind,mysql,sqlite,php,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,angular,next,mysql,postgres,sequelize,prisma,html,css,tailwind)](https://skillicons.dev)
 
 ---
 
-## 📊 Estatísticas
+## 📊 Stats
 
 <div align="start">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillhermeHenrique&theme=transparent" />
