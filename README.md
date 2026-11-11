@@ -8,7 +8,7 @@ System.out.println("Welcome to my GitHub!");
 
 ## 🛠 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,javascript,typescript,nodejs,express,react,next,aws,docker,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,javascript,typescript,nodejs,express,react,next,aws,docker,githubactions,postgres,mongodb)](https://skillicons.dev)
 
 ## 🏆 Stats
 
