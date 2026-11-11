@@ -1,5 +1,5 @@
 ```java
-System.out.println("Welcome to my GitHub!😄​");
+System.out.println("Welcome to my GitHub!");
 ```
 
 ## 🤖​ About Me
